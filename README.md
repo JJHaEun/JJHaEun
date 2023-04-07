@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJHaEun&theme=aura_dark&show_icons=true)
-<div aling="left">
+<div align="left">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   </div>
-![Anurag's GitHub stats](https://github-readme-repo.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+  
+  
+![Anurag's GitHub stats](https://github-readme-repo.vercel.app/api?username=JJHaEun&theme=dark&show_icons=true)
