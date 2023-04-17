@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1>HaEun, Kim</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=발전해가는&nbsp;개발자&nbsp;김하은&nbsp;입니다.&fontSize=50&fontColor=ffffff&&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=발전해가는&nbsp;개발자&nbsp;,&nbsp;김하은&nbsp;입니다.&fontSize=50&fontColor=ffffff&&animation=fadeIn" />
 
 
 <div>
