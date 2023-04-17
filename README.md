@@ -1,4 +1,4 @@
-### Hi there 👋
+### 제 깃허브를 소개할게요!! 👋
 
 <!--
 **JJHaEun/JJHaEun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1>HaEun, Kim</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=오늘은 몰라도 내일은 안다, 발전해가는 개발자 김하은입니다&fontSize=40&fontColor=ffffff&&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=발전해가는&nbsp;개발자&nbsp;김하은&nbsp;입니다.&fontSize=50&fontColor=ffffff&&animation=fadeIn" />
 
 
 <div>
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JJHaEun&theme=aura_dark&show_icons=true">
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=JJHaEun&show_icons=true&theme=radical&hide_border=true&title_color=004386&icon_color=004386&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJHaEun&show_icons=true&theme=radical&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="github stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&repo=convoychat" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJHaEun&show_icons=true&theme=aura&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="github stats">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=footer"/>
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-repo.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
