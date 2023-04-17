@@ -38,10 +38,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
 </div>
-</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JJHaEun&theme=aura_dark&show_icons=true">
+<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=JJHaEun&show_icons=true&theme=radical&hide_border=true&title_color=004386&icon_color=004386&layout=compact"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CA55C,100:185a9d&height=300&section=footer"/>
+</div>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJHaEun&theme=aura_dark&show_icons=true) -->
 
-  
-  
+
