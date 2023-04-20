@@ -1,5 +1,8 @@
 ### 제 깃허브를 소개할게요!! 👋
 
+
+- 📨 Email : yj05037@gmail.com
+- 💻 Main Blog : https://velog.io/@yj05037
 <!--
 **JJHaEun/JJHaEun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
