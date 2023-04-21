@@ -3,7 +3,7 @@
 
 - 📨 Email : yj05037@gmail.com
 - 💻 Main Blog : https://velog.io/@yj05037
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yj05037)](https://velog.io/@eungyeole) 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yj05037)](https://velog.io/@yj05037) 
 
 <!--
 **JJHaEun/JJHaEun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
