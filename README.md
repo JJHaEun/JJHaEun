@@ -1,9 +1,8 @@
-### 제 깃허브를 소개할게요!! 👋
+### 안녕하세요!! 오늘은 몰라도 내일은 안다, 발전하는 개발자 김하은 입니다 👋
 
-
-- 📨 Email : yj05037@gmail.com
-- 💻 Main Blog : https://velog.io/@yj05037
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yj05037)](https://velog.io/@yj05037) 
+
+📨 Email : yj05037@gmail.com
 
 <!--
 **JJHaEun/JJHaEun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
