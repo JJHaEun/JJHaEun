@@ -3,6 +3,8 @@
 
 - 📨 Email : yj05037@gmail.com
 - 💻 Main Blog : https://velog.io/@yj05037
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yj05037)](https://velog.io/@eungyeole) 
+
 <!--
 **JJHaEun/JJHaEun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,6 +52,7 @@ Here are some ideas to get you started:
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=JJHaEun" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=My-Leisurely-Day" />
   </section>
+
   </div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=footer"/>
 
