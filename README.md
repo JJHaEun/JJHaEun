@@ -48,14 +48,20 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJHaEun&show_icons=true&theme=react&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="github stats">
   </section>
     <section>
+    
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=JJHaEun" />
+    <a href="https://github.com/JJHaEun/next-todoList">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=next-todoList" />
+   </a>
      
   </section>
  <section>
+    <a href="https://github.com/JJHaEun/baseStudy">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=baseStudy" />
+ </a>
+    <a href="https://github.com/JJHaEun/My-Leisurely-Day">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=My-Leisurely-Day" />
-  
+  </a>
  </section>
 
   </div>
