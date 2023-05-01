@@ -49,8 +49,13 @@ Here are some ideas to get you started:
   </section>
     <section>
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=JJHaEun" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=My-Leisurely-Day" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=next-todoList" />
+     
   </section>
+ <section>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JJHaEun&theme=buefy&repo=My-Leisurely-Day" />
+  
+ </section>
 
   </div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=footer"/>
